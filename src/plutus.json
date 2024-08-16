@@ -1,7 +1,7 @@
 {
   "preamble": {
-    "title": "ctf/multisig_treasury_v3",
-    "description": "Aiken contracts for project 'ctf/multisig_treasury_v3'",
+    "title": "onchain_jwt",
+    "description": "Aiken contracts for project 'onchain_jwt'",
     "version": "0.0.0",
     "plutusVersion": "v2",
     "compiler": {
