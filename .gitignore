@@ -1,0 +1,12 @@
+*.addr
+*.sk
+tests/config.ts
+
+# Aiken
+**/artifacts/
+**/build/
+**/docs/
+
+# MacOS
+.DS_Store
+
