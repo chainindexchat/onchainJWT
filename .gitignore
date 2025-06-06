@@ -6,7 +6,7 @@ tests/config.ts
 **/artifacts/
 **/build/
 **/docs/
-
+!docs/
 # MacOS
 .DS_Store
 
